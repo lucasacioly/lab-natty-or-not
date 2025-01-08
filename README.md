@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;
+# O Código das Estrelas
 
 ## 📒 Descrição
 Este e-book de 6 páginas narra o início de uma aventura em um mundo de ficção cienífica. O primeiro capítulo de uma saga emocionante.
